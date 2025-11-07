@@ -19,7 +19,7 @@
 ## Посилання
 🔗 [Tableau Dashboard (Live)](https://public.tableau.com/app/profile/iryna.kylivnyk/viz/E-CommerceOverview_17621894307920/Dashboard1)
 
-## Preview
 
-![Dashboard Screenshot](screenshot.png)
+
+
 
